@@ -1,0 +1,46 @@
+kpi_id,pilier,esrs_datapoint,nom_indicateur,annee,valeur,unite,objectif_seuil,sens_amelioration,perimetre
+E1-SC1-EMISSIONS,E1,E1-6,Émissions GES Scope 1,2023,5820,tCO2eq,4500,baisse,Groupe
+E1-SC1-EMISSIONS,E1,E1-6,Émissions GES Scope 1,2024,5340,tCO2eq,4500,baisse,Groupe
+E1-SC1-EMISSIONS,E1,E1-6,Émissions GES Scope 1,2025,4820,tCO2eq,4500,baisse,Groupe
+E1-SC2-EMISSIONS,E1,E1-6,Émissions GES Scope 2,2023,3100,tCO2eq,2200,baisse,Groupe
+E1-SC2-EMISSIONS,E1,E1-6,Émissions GES Scope 2,2024,2750,tCO2eq,2200,baisse,Groupe
+E1-SC2-EMISSIONS,E1,E1-6,Émissions GES Scope 2,2025,2380,tCO2eq,2200,baisse,Groupe
+E1-SC3-EMISSIONS,E1,E1-6,Émissions GES Scope 3,2023,41200,tCO2eq,35000,baisse,Groupe
+E1-SC3-EMISSIONS,E1,E1-6,Émissions GES Scope 3,2024,39800,tCO2eq,35000,baisse,Groupe
+E1-SC3-EMISSIONS,E1,E1-6,Émissions GES Scope 3,2025,37650,tCO2eq,35000,baisse,Groupe
+E1-ENERGY-CONSO,E1,E1-5,Consommation énergétique totale,2023,28500,MWh,24000,baisse,Groupe
+E1-ENERGY-CONSO,E1,E1-5,Consommation énergétique totale,2024,27100,MWh,24000,baisse,Groupe
+E1-ENERGY-CONSO,E1,E1-5,Consommation énergétique totale,2025,25800,MWh,24000,baisse,Groupe
+E1-ENERGY-RENOUV,E1,E1-5,Part d'énergie renouvelable,2023,22,%,50,hausse,Groupe
+E1-ENERGY-RENOUV,E1,E1-5,Part d'énergie renouvelable,2024,31,%,50,hausse,Groupe
+E1-ENERGY-RENOUV,E1,E1-5,Part d'énergie renouvelable,2025,42,%,50,hausse,Groupe
+S1-HEADCOUNT,S1,S1-6,Effectif total,2023,1850,personnes,2000,hausse,Groupe
+S1-HEADCOUNT,S1,S1-6,Effectif total,2024,1920,personnes,2000,hausse,Groupe
+S1-HEADCOUNT,S1,S1-6,Effectif total,2025,2010,personnes,2000,hausse,Groupe
+S1-WOMEN-PCT,S1,S1-9,Part de femmes dans l'effectif,2023,34,%,40,hausse,Groupe
+S1-WOMEN-PCT,S1,S1-9,Part de femmes dans l'effectif,2024,36,%,40,hausse,Groupe
+S1-WOMEN-PCT,S1,S1-9,Part de femmes dans l'effectif,2025,38,%,40,hausse,Groupe
+S1-WOMEN-MANAGEMENT,S1,S1-9,Part de femmes parmi les postes de management,2023,24,%,35,hausse,Groupe
+S1-WOMEN-MANAGEMENT,S1,S1-9,Part de femmes parmi les postes de management,2024,27,%,35,hausse,Groupe
+S1-WOMEN-MANAGEMENT,S1,S1-9,Part de femmes parmi les postes de management,2025,31,%,35,hausse,Groupe
+S1-TRAINING-HOURS,S1,S1-13,Heures de formation moyennes par salarié,2023,18.5,heures/salarié/an,25,hausse,Groupe
+S1-TRAINING-HOURS,S1,S1-13,Heures de formation moyennes par salarié,2024,21.2,heures/salarié/an,25,hausse,Groupe
+S1-TRAINING-HOURS,S1,S1-13,Heures de formation moyennes par salarié,2025,24.8,heures/salarié/an,25,hausse,Groupe
+S1-ACCIDENT-FREQ,S1,S1-14,Taux de fréquence des accidents du travail,2023,12.4,accidents/million heures travaillées,7.5,baisse,Groupe
+S1-ACCIDENT-FREQ,S1,S1-14,Taux de fréquence des accidents du travail,2024,10.1,accidents/million heures travaillées,7.5,baisse,Groupe
+S1-ACCIDENT-FREQ,S1,S1-14,Taux de fréquence des accidents du travail,2025,8.3,accidents/million heures travaillées,7.5,baisse,Groupe
+S1-ACCIDENT-SEVERITY,S1,S1-14,Taux de gravité des accidents du travail,2023,0.42,jours perdus/1000h travaillées,0.25,baisse,Groupe
+S1-ACCIDENT-SEVERITY,S1,S1-14,Taux de gravité des accidents du travail,2024,0.35,jours perdus/1000h travaillées,0.25,baisse,Groupe
+S1-ACCIDENT-SEVERITY,S1,S1-14,Taux de gravité des accidents du travail,2025,0.29,jours perdus/1000h travaillées,0.25,baisse,Groupe
+G1-BOARD-INDEP,G1,G1-1,Part d'administrateurs indépendants au board,2023,45,%,50,hausse,Groupe
+G1-BOARD-INDEP,G1,G1-1,Part d'administrateurs indépendants au board,2024,50,%,50,hausse,Groupe
+G1-BOARD-INDEP,G1,G1-1,Part d'administrateurs indépendants au board,2025,55,%,50,hausse,Groupe
+G1-BOARD-WOMEN,G1,G1-1,Part de femmes au board,2023,33,%,40,hausse,Groupe
+G1-BOARD-WOMEN,G1,G1-1,Part de femmes au board,2024,40,%,40,hausse,Groupe
+G1-BOARD-WOMEN,G1,G1-1,Part de femmes au board,2025,44,%,40,hausse,Groupe
+G1-CORRUPTION-INCIDENTS,G1,G1-1,Nombre d'incidents de corruption signalés,2023,0,incidents,0,baisse,Groupe
+G1-CORRUPTION-INCIDENTS,G1,G1-1,Nombre d'incidents de corruption signalés,2024,0,incidents,0,baisse,Groupe
+G1-CORRUPTION-INCIDENTS,G1,G1-1,Nombre d'incidents de corruption signalés,2025,0,incidents,0,baisse,Groupe
+G1-ANTICORRUPTION-TRAINING,G1,G1-1,Part de salariés formés à la politique anti-corruption,2023,78,%,95,hausse,Groupe
+G1-ANTICORRUPTION-TRAINING,G1,G1-1,Part de salariés formés à la politique anti-corruption,2024,89,%,95,hausse,Groupe
+G1-ANTICORRUPTION-TRAINING,G1,G1-1,Part de salariés formés à la politique anti-corruption,2025,96,%,95,hausse,Groupe

@@ -1,0 +1,13 @@
+Rédige le paragraphe narratif de la section "{esrs_section}" du rapport de
+durabilité de l'exercice {annee}, pour l'entreprise NordTech Industries.
+
+DONNÉES SOURCE — TABLEAU DE KPIs (seules valeurs numériques autorisées) :
+{tableau_kpis}
+
+CONTEXTE QUALITATIF ASSOCIÉ (actions RSE, explications) :
+{contexte_qualitatif}
+
+Rappel : tu dois citer explicitement, en toutes lettres, au moins la valeur
+{annee} de chaque indicateur listé ci-dessus (avec son unité), et tu peux
+mentionner sa variation par rapport à {annee_precedente} si elle est fournie
+dans le tableau. N'utilise aucun autre chiffre que ceux du tableau.

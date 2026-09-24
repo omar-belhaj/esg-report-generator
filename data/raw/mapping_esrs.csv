@@ -1,0 +1,8 @@
+esrs_datapoint,esrs_section,description_officielle,type_obligation
+E1-5,E1 - Changement climatique,"Consommation et mix énergétique de l'entreprise, incluant la part d'énergie issue de sources renouvelables.",obligatoire
+E1-6,E1 - Changement climatique,"Émissions de gaz à effet de serre brutes des Scopes 1, 2 et 3, et émissions totales de GES.",obligatoire
+S1-6,S1 - Effectifs propres,"Caractéristiques générales des salariés de l'entreprise : effectif total, répartition par type de contrat, genre et zone géographique.",obligatoire
+S1-9,S1 - Effectifs propres,"Indicateurs de diversité, notamment la répartition par genre au sein des effectifs et des postes d'encadrement.",obligatoire
+S1-13,S1 - Effectifs propres,"Indicateurs de formation et de développement des compétences, incluant le nombre moyen d'heures de formation par salarié.",conditionnel
+S1-14,S1 - Effectifs propres,"Indicateurs de santé et sécurité au travail, incluant le taux de fréquence et le taux de gravité des accidents du travail.",obligatoire
+G1-1,G1 - Conduite des affaires,"Politiques de conduite des affaires et de lutte contre la corruption, incluant la composition des organes de gouvernance, les dispositifs de formation et le suivi des incidents signalés.",obligatoire

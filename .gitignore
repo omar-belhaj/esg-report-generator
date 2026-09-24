@@ -1,0 +1,15 @@
+# Environnements Python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Variables d'environnement (clés secrètes)
+.env
+
+# Sorties générées par le pipeline (reproductibles via run_pipeline.py / generate_report.py)
+data/processed/*
+!data/processed/.gitkeep
+
+# Fichiers système
+.DS_Store
